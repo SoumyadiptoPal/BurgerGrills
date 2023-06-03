@@ -1,7 +1,5 @@
 # BurgerGrills
 
-![BurgerGrills Logo](logo.png)
-
 BurgerGrills is a web application for ordering and managing burgers and grills online. This repository contains the source code and related files for the BurgerGrills project.
 
 ## Features
