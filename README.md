@@ -53,11 +53,12 @@ Make sure you have the following installed on your system:
    # Install dependencies
    cd ../admin
    npm install
-   ```
-    # Install dependencies
+   
+      # Install dependencies
    cd ../backend
    npm install
    ```
+ 
 
 5. Start the server and client:
 
